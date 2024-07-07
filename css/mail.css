@@ -188,14 +188,12 @@ body {
     margin-top: 10px;
 }
 
-
 /* CSS cho body */
 .container {
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 80vh;
-    background-color: #f4f4f4;
 }
 .body_form {
     background: white;
